@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tristanharrower
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... Typescript and Python
-- 💞️ I’m looking to collaborate on ... Web App
+- 💞️ I’m looking to collaborate on ... Web Applications
 - 📫 How to reach me ... harrowertristan@gmail.com
 
 <!---
